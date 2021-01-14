@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+This man has achieved nothing...
+
+<img align="center" alt="frg2089's github stats" src="https://github-readme-stats.vercel.app/api?username=frg2089&show_icons=true&theme=midnight-purple&count_private=true"/>
+
+<img align="center" alt="frg2089's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frg2089&theme=midnight-purple&hide=javascript,html,css"/>
+
+<div align="center">
+  Hello visiter! You're the person to visit by No.  
+  <img src="https://count.getloli.com/get/@frg2089" alt="frg2089's count"/>
+</div>
+
+
 <!--
 **frg2089/frg2089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@ This man has achieved nothing...
 
 <img align="center" alt="frg2089's github stats" src="https://github-readme-stats.vercel.app/api?username=frg2089&show_icons=true&theme=midnight-purple&count_private=true"/>
 
-<img align="center" alt="frg2089's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frg2089&theme=midnight-purple&hide=javascript,html,css"/>
+<img align="center" alt="frg2089's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frg2089&theme=midnight-purple&exclude_repo=frg2089.github.io"/>
 
 <div align="center">
   Hello visiter! You're the person to visit by No.  

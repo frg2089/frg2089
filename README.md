@@ -1,27 +1,52 @@
-### Hello, I'm frg2089
+## I'm frg2089
 
-I'm a amateur coder.  
-![frg2089's github stats](https://github-readme-stats.vercel.app/api?username=frg2089&show_icons=true&theme=midnight-purple&count_private=true)  
-I'm Chinese and my english is terrible.  
+```javascript
+const frg2089 = {
+  info: {
+    name: 'frg2089',
+    aka: [
+      '舰队的偶像-岛风酱!' // Common Nickname
+    ],
+    job: undefine
+  },
+  progammingSkills:{
+    console: [
+      '.Net'
+    ],
+    desktop: [
+      '.Net'
+    ],
+    browser: [
+      'React'
+    ],
+    web: [
+      'ASP.Net',
+      'Node.js',
+      'Java Web'
+    ]
+  },
+  progammingLanguages: [
+    'C#',
+    'TypeScript',
+    'Kotlin',
+    'JavaScript',
+    'Java'
+  ]
+}
+```
+![GitHub followers](https://img.shields.io/github/followers/dylech30th?style=social)
 
-I sometimes will to make some toys to help me do somethings easy.  
-My favorite programming language is C# for .Net, Kotlin for JVM and TypeScript for node.js.  
-![frg2089's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frg2089&theme=midnight-purple&exclude_repo=frg2089.github.io&layout=compact)
+## 🏆 GitHub Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy-ecru.vercel.app/?username=frg2089&row=1&column=8&no-frame=true" alt="frg2089"/>
+</div>
 
-I like Back-End because I can don't care about how user to view that.  
-I cannot design. So I cannot design a beautiful UI.  
-But the Back-End, I can don't care that.  
 
-My favorite Command Shell is PowerShell Core.
-Because it is base on .Net platform.  
-I can make a ClassLib for .Net and used on PowerShell.
-But I dislike Windows PowerShell.  
-I think it's background is not beautiful.  
-Black Window is No.1 in the World! Right?
+### 📊 My Achievement
+|![frg2089's github stats](https://github-readme-stats.vercel.app/api?username=frg2089&show_icons=true&theme=midnight-purple&count_private=true)|![frg2089's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frg2089&theme=midnight-purple&exclude_repo=frg2089.github.io&layout=compact)|
+|-|-|
 
-I like Dark theme. Light theme is too light for me.  
-So Black Window is No.1 in the World!
-
+### 👀 Visitors
 <div align="center">
   <img src="https://count.getloli.com/get/@frg2089" alt="frg2089's count"/>
   <p>Thanks to visited.</p>

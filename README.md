@@ -34,7 +34,7 @@ const frg2089 = {
   ]
 }
 ```
-![GitHub followers](https://img.shields.io/github/followers/dylech30th?style=social)
+![GitHub followers](https://img.shields.io/github/followers/frg2089?style=social)
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">

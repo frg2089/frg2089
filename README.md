@@ -1,6 +1,8 @@
 ## I'm frg2089
 
-```javascript
+> 然而PowerShell，它棒极了！
+
+```typescript
 const frg2089 = {
   info: {
     name: 'frg2089',
@@ -11,18 +13,25 @@ const frg2089 = {
   },
   progammingSkills:{
     console: [
-      '.Net'
+      '.Net',
+      'Node.js'
     ],
     desktop: [
-      '.Net'
+      '.Net (WPF / UWP)',
+      'electron.js'
     ],
     browser: [
+      'Fast',
+      'Vue 3',
       'React'
     ],
     web: [
       'ASP.Net',
       'Node.js',
       'Java Web'
+    ],
+    mobile: [
+      '.Net Xamarin'
     ]
   },
   progammingLanguages: [

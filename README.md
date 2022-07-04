@@ -47,7 +47,7 @@ const frg2089 = {
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">
-  <img src="https://github-profile-trophy-ecru.vercel.app/?username=frg2089&row=1&column=8&no-frame=true" alt="frg2089"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=frg2089&row=1&column=8&no-frame=true" alt="frg2089"/>
 </div>
 
 

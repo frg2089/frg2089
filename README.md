@@ -9,7 +9,7 @@ const frg2089 = {
     aka: [
       '舰队的偶像-岛风酱!' // Common Nickname
     ],
-    job: undefine
+    job: 'front-end'
   },
   progammingSkills:{
     console: [

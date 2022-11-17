@@ -2,45 +2,45 @@
 
 > 然而PowerShell，它棒极了！
 
-```typescript
-const frg2089 = {
-  info: {
-    name: 'frg2089',
-    aka: [
-      '舰队的偶像-岛风酱!' // Common Nickname
-    ],
-    job: 'front-end'
-  },
-  progammingSkills:{
-    console: [
-      '.Net',
+```powershell
+$frg2089 = @{
+  info = @{
+    name = 'frg2089'
+    aka = @(
+      '舰队的偶像-岛风酱!' # Common Nickname
+    )
+    job = 'front-end'
+  }
+  progammingSkills = @{
+    console = @(
+      '.Net'
       'Node.js'
-    ],
-    desktop: [
-      '.Net (WPF / UWP)',
+    )
+    'desktop-framework' = @(
+      '.Net (WPF / UWP)'
       'electron.js'
-    ],
-    browser: [
-      'Fast',
-      'Vue 3',
+    )
+    'browser-framework' = @(
+      'Fast'
+      'Vue 3'
       'React'
-    ],
-    web: [
-      'ASP.Net',
-      'Node.js',
+    )
+    'webapi-framework' = @(
+      'ASP.Net'
+      'Node.js'
       'Java Web'
-    ],
-    mobile: [
+    )
+    'mobile-framework' = @(
       '.Net Xamarin'
-    ]
-  },
-  progammingLanguages: [
-    'C#',
-    'TypeScript',
-    'Kotlin',
-    'JavaScript',
+    )
+  }
+  progammingLanguages = @(
+    'C#'
+    'TypeScript'
+    'Kotlin'
+    'JavaScript'
     'Java'
-  ]
+  )
 }
 ```
 ![GitHub followers](https://img.shields.io/github/followers/frg2089?style=social)

@@ -57,7 +57,7 @@ $frg2089 = @{
 
 ### 👀 Visitors
 <div align="center">
-  <img src="https://count.getloli.com/get/@frg2089" alt="frg2089's count"/>
+  <img src="https://count.getloli.com/get/@frg2089?theme=rule34" alt="frg2089's count"/>
   <p>Thanks to visited.</p>
 </div>
 <div align=right>

@@ -1,6 +1,6 @@
-## I'm frg2089
+## I'm frg2089 ![GitHub followers](https://img.shields.io/github/followers/frg2089)
 
-> 然而PowerShell，它棒极了！
+> Yes! PowerShell!
 
 ```powershell
 $frg2089 = @{
@@ -9,16 +9,19 @@ $frg2089 = @{
     aka = @(
       '舰队的偶像-岛风酱!' # Common Nickname
     )
-    job = 'front-end'
+    job = 'On-job Web Engineer (Vue and Uni App)'
   }
   progammingSkills = @{
     console = @(
+      'PowerShell'
       '.Net'
       'Node.js'
     )
     'desktop-framework' = @(
-      '.Net (WPF / UWP)'
-      'electron.js'
+      '.Net (WPF / UWP / WinUI 3)'
+      '.Net (Avalonia / Uno Platform)'
+      'electron'
+      'tauri'
     )
     'browser-framework' = @(
       'Fast'
@@ -28,22 +31,23 @@ $frg2089 = @{
     'webapi-framework' = @(
       'ASP.Net'
       'Node.js'
-      'Java Web'
     )
     'mobile-framework' = @(
+      '.Net MAUI'
       '.Net Xamarin'
+      'Uni App'
+    )
+    other = @(
+      'MSBuild (XML & .Net Assembly)'
     )
   }
   progammingLanguages = @(
     'C#'
     'TypeScript'
-    'Kotlin'
     'JavaScript'
-    'Java'
   )
 }
 ```
-![GitHub followers](https://img.shields.io/github/followers/frg2089?style=social)
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">

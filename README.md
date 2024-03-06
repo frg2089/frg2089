@@ -18,7 +18,7 @@ $frg2089 = @{
     aka = @(
       '舰队的偶像-岛风酱!' # Common Nickname
     )
-    job = 'On-job Web Engineer (Vue and Uni App)'
+    job = 'On-job C# Engineer (WPF/WinUI 3/Asp.Net)'
   }
   progammingSkills = @{
     console = @(

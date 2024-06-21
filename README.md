@@ -29,22 +29,12 @@ $frg2089 = @{
     'desktop-framework' = @(
       '.Net (WPF / UWP / WinUI 3)'
       '.Net (Avalonia / Uno Platform)'
-      'electron'
-      'tauri'
     )
     'browser-framework' = @(
-      'Fast'
       'Vue 3'
-      'React'
     )
     'webapi-framework' = @(
       'ASP.Net'
-      'Node.js'
-    )
-    'mobile-framework' = @(
-      '.Net MAUI'
-      '.Net Xamarin'
-      'Uni App'
     )
     other = @(
       'MSBuild (XML & .Net Assembly)'

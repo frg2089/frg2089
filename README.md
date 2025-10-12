@@ -3,11 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/frg2089)
 ![GitHub User's stars](https://img.shields.io/github/stars/frg2089?affiliations=OWNER%2CCOLLABORATOR)
 
-[![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=microsoft)](https://www.microsoft.com)
+[![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=https%3A%2F%2Funpkg.com%2F%40lobehub%2Ficons-static-svg%401.73.0%2Ficons%2Fmicrosoft.svg)](https://www.microsoft.com)
 [![OS:Android13](https://img.shields.io/badge/OS-Android%2013-green?logo=android)](https://www.android.com/)  
 
-[![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![IDE:VS2022](https://img.shields.io/badge/IDE-Visual%20Studio%202022-blueviolet?logo=visualstudio)](https://visualstudio.com/)
+[![IDE:VSCode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![IDE:VS2026](https://img.shields.io/badge/IDE-Visual%20Studio%202026-blueviolet?logo=visualstudio)](https://visualstudio.com/)
 
 > Yes! PowerShell!
 
@@ -18,17 +18,16 @@ $frg2089 = @{
     aka = @(
       '舰队的偶像-岛风酱!' # Common Nickname
     )
-    job = 'On-job C# Engineer (WPF/WinUI 3/Asp.Net)'
+    job = $null
   }
   progammingSkills = @{
     console = @(
-      'PowerShell'
       '.Net'
+      'PowerShell'
       'Node.js'
     )
     'desktop-framework' = @(
-      '.Net (WPF / UWP / WinUI 3)'
-      '.Net (Avalonia / Uno Platform)'
+      '.Net (WPF)'
     )
     'browser-framework' = @(
       'Vue 3'
